@@ -49,7 +49,7 @@ Note: This output is very preliminary and not well formatted.
 
 ## Disclaimer
 
-This addon uses packet injection, and thus may be in violation of TOS agreements. This method also allows the trade to occur when out of the normal trading range, which may be detectable. Please ensure you are within normal trading range to the intended NPC when using this addon.
+This addon uses packet injection, and thus may be in violation of TOS agreements. This method also allows the trade to occur when out of the normal trading range, which may be detectable. Please ensure you are within normal trading range of the intended NPC when using this addon.
 
 This addon utilizes the `packets` library to capture and re-send trade packets. It does not otherwise in any way modify the original packets; it simply captures the packet, saves it, and re-sends it again.
 
